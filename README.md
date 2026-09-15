@@ -31,6 +31,7 @@ This project was completed as part of my Data Analytics training at Brandmonk Ac
 ## 📈 Dashboard
 
 An interactive Excel dashboard was created to summarize the key findings from the dataset.
+![Bike Resale Market Analysis Dashboard](Bike_Resale_Dashboard.png)
 
 ## 🎯 Project Objective
 
