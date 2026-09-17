@@ -6,6 +6,12 @@ This project analyzes used-bike resale data to understand market trends, pricing
 
 This project was completed as part of my Data Analytics training at Brandmonk Academy.
 
+## 🏷️ Project Type
+
+**Data Analytics Training / Mini Project**
+
+This project was completed as part of my Data Analytics training using Excel.
+
 ## 🛠️ Tools Used
 
 - Microsoft Excel
@@ -33,9 +39,6 @@ This project was completed as part of my Data Analytics training at Brandmonk Ac
 An interactive Excel dashboard was created to summarize the key findings from the dataset.
 ![Bike Resale Market Analysis Dashboard](Bike_Resale_Dashboard.png)
 
-## 🎯 Project Objective
-
-The main objective of this project is to practice data cleaning, analysis, visualization, and deriving meaningful insights from a real-world-style dataset using Excel.
 
 ## 💡 Key Insights
 
@@ -64,3 +67,23 @@ The main objective of this project is to practice data cleaning, analysis, visua
 - Target Tier-2 and Tier-3 markets through focused marketing campaigns and dealer partnerships.
 - Consider insurance renewal offerings for bikes with expired policies.
 - Monitor depreciation trends to improve resale pricing strategies.
+
+## 📂 Dataset Information
+
+- Dataset: Used-bike resale market data
+- Number of records: 10,000
+- Number of brands: 8
+- Analysis focus: Pricing, brands, fuel type, seller type, ownership, insurance, city tier, manufacturing year, depreciation, and mileage
+- Tool used for analysis: Microsoft Excel
+
+## 🧠 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Pivot Tables
+- Data Visualization
+- KPI Creation
+- Dashboard Development
+- Business Insights
+- Business Recommendations
+- Microsoft Excel
