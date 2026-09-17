@@ -36,3 +36,31 @@ An interactive Excel dashboard was created to summarize the key findings from th
 ## 🎯 Project Objective
 
 The main objective of this project is to practice data cleaning, analysis, visualization, and deriving meaningful insights from a real-world-style dataset using Excel.
+
+## 💡 Key Insights
+
+- Yamaha and Royal Enfield have strong market presence in the dataset.
+- Dealer and individual sellers contribute almost equally, showing the importance of both sales channels.
+- First-owner bikes form the largest ownership group, followed by second and third owners.
+- Tier-3 cities contribute strongly to total resale value, highlighting opportunities beyond major metropolitan markets.
+- The average depreciation is approximately ₹90.5K, indicating significant value loss after purchase.
+- Fuel types are well distributed, suggesting that demand is diversified across fuel categories.
+- Average resale prices fluctuate across manufacturing years rather than following a steady trend.
+
+## 📊 Key Performance Indicators
+
+| KPI | Value |
+|---|---:|
+| Total Bikes | 10,000 |
+| Total Original Value | ₹2.24 Cr |
+| Average Resale Price | ₹1.34Lakh |
+| Average Depreciation | ₹90.5K |
+| Average Mileage | 67.19 km/l |
+
+## 🎯 Business Recommendations
+
+- Increase inventory for brands with strong resale value and market demand.
+- Promote certified first-owner bikes to improve buyer confidence.
+- Target Tier-2 and Tier-3 markets through focused marketing campaigns and dealer partnerships.
+- Consider insurance renewal offerings for bikes with expired policies.
+- Monitor depreciation trends to improve resale pricing strategies.
